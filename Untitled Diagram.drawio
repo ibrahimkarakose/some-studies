@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T14:29:54.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" version="13.8.3" etag="m9_1xuYKYFtTnlhKENhd" type="github"><diagram id="pUXbZuUqG8Ve-6PVr3ve">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T15:00:38.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="1JL6LkYrUhDOK8G2N5zh" version="13.8.8" type="github">
+  <diagram id="pUXbZuUqG8Ve-6PVr3ve" name="Page-1">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bPzMyl5LDuTWV2koLvdy-1" target="bPzMyl5LDuTWV2koLvdy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-1" value="The vertical and horizontal loads of the system are marked." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bPzMyl5LDuTWV2koLvdy-2" target="bPzMyl5LDuTWV2koLvdy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-2" value="Calculation of distributed loads by cutting method." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bPzMyl5LDuTWV2koLvdy-4" target="bPzMyl5LDuTWV2koLvdy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-4" value="In the system divided into 3 parts, 2 triangles and 1 rectangle are formed." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bPzMyl5LDuTWV2koLvdy-6" target="bPzMyl5LDuTWV2koLvdy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-6" value="Vertical loads should be found according to their center of gravity." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPzMyl5LDuTWV2koLvdy-8" value="Total vertical loads can be calculated and encoded in Python." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
